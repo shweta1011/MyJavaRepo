@@ -1,7 +1,13 @@
 Class HelloWorld{
 
+	static void myMethod(){
+	
+	system.out.println("HelloWorld welcome to my method!");
+	}
+
 	public static void main(String args[])
 	{
-	system.out.println("HelloWorld ........!");
+		myMethod();
+	
 	}
 }

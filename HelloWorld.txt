@@ -1,6 +1,6 @@
 Class HelloWorld{
 
-	static void myMethod(){
+	static void WelcomeMethod(){
 	
 	system.out.println("HelloWorld welcome to my method!");
 	}
